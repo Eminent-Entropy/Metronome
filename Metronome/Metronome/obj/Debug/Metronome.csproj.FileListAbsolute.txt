@@ -1,0 +1,13 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\bin\Debug\Metronome.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\bin\Debug\Metronome.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\bin\Debug\Metronome.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.Form1.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.Properties.Resources.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.csproj.GenerateResource.Cache
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\bin\Debug\Metronome.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\bin\Debug\Metronome.application
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\Metronome\Metronome\obj\Debug\Metronome.application
