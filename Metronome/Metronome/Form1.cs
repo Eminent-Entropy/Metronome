@@ -67,7 +67,7 @@ namespace Metronome
             }
             else
             {
-                MessageBox.Show("please type a integer");//if user didn't input an integer
+                MessageBox.Show("please type a vaid integer");//if user didn't input an integer
             }
         }
 
